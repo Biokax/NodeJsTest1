@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\tests",
+    "\\tests\\fixture",
+    "\\tests\\fixture\\services"
+  ],
+  "SelectedNode": "\\tests\\fixture\\services\\Calculservice.test.js",
+  "PreviewInSolutionExplorer": false
+}
